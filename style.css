@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.background-image {
+  background-image: url(WhatsApp\ Image\ 2023-12-03\ at\ 21.21.00_09271c2a.jpg);
+  height: 650px;
+  width: 650px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
